@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/keeper-clone.git
+git clone https://github.com/STAAR13/keeper-clone.git
 Navigate into the project directory:
 
 bash
